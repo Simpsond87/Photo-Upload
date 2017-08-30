@@ -2,7 +2,7 @@
 This project is an assignment for theClubhou.se Full-Stack Web Development Bootcamp course.
 
 ## Screenshot
-![screenshot](http://h4z.it/Image/ae659e_Capture.PNG "Authentication-System Screenshot1")
+![screenshot](http://h4z.it/Image/8fe7d2_Capture.PNG "Photo-Upload Screenshot1")
 
 ## Description
 This project is a basic back-end program built in PHP 7 using the Laravel framework. The Postman application acts as the front-end and takes input, sending it to the back-end which validates and purifies the data. If one of the required field, 'photo', is missing, there is an error message. Once inputting the photo file, the filename is saved in the database, which points to the storage folder in the project folder.
